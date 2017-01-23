@@ -1,6 +1,6 @@
 ### Welcome to Polynomial Pages.
 
-## Function:
+## Functions:
 1. The executable will consume two filenames from the command line and will print to stdout the sum of the two polynomials found in those files. 
 
 2. the code have two choice, operation"sum" or "multiplication" 
