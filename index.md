@@ -12,7 +12,7 @@
 
 
 ### Details
-# introduction of code
+## introduction of code
 1. First, save two numbers like 510012, 3102 in two files --f1.txt, f2,txt.
 2. The source codeint num_first(int i) to get the first number of 510012, it means the highest power and use to create the expn array. void inttoarr(int i,int arr[]) and void change(int array[],int n) use to change the int number saved in the file to array.
 3. The function “change” use to abandon the first number of 510012. These two functions will create the coef array.
