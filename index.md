@@ -12,6 +12,7 @@
 
 
 ## Details
+
 ### introduction of code
 
 1. First, save two numbers like 510012, 3102 in two files --f1.txt, f2,txt.
